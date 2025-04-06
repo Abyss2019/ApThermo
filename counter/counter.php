@@ -1,4 +1,5 @@
 <?php
+
 /*******************************************************************************
 *  Title: PHP hit counter (PHPcount)
 *  Version: 1.6.1 from 4th January 2015
